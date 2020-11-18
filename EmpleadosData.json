@@ -1,0 +1,36 @@
+[
+	{
+        "id":1,
+        "username":"heyres0",
+        "first_name":"Hadley",
+        "last_name":"Eyres",
+        "gender":"Male",
+        "email":"heyres@mozilla.org",
+        "department":"Human resources",
+        "address":"931 Linden Parkway",
+        "avatar":"https://robohas.org/quaminventoredolrem.png"
+    },
+    {
+        "id":2,
+        "username":"PEPE",
+        "first_name":"Hadley",
+        "last_name":"Eyres",
+        "gender":"Male",
+        "email":"heyres@mozilla.org",
+        "department":"Human resources",
+        "address":"931 Linden Parkway",
+        "avatar":"https://robohas.org/quaminventoredolrem.png"
+    },
+    {
+        "id":3,
+        "username":"CARLOS",
+        "first_name":"Hadley",
+        "last_name":"Eyres",
+        "gender":"Male",
+        "email":"heyres@mozilla.org",
+        "department":"Human resources",
+        "address":"931 Linden Parkway",
+        "avatar":"https://robohas.org/quaminventoredolrem.png"
+    }
+
+]
